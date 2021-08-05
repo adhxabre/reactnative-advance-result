@@ -1,10 +1,12 @@
 {
   "expo": {
-    "name": "rn-fundamental-result",
-    "slug": "rn-fundamental-result",
+    "name": "postProj",
+    "slug": "postProj",
     "version": "1.0.0",
     "orientation": "portrait",
+    "icon": "./assets/icon.png",
     "splash": {
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -18,7 +20,10 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.dw.PostProjectB23",
+      "versionCode": 1,
       "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
