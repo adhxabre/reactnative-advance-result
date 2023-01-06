@@ -11,7 +11,7 @@
     "@expo-google-fonts/balsamiq-sans": "^0.2.0",
     "@expo/vector-icons": "^13.0.0",
     "@expo/webpack-config": "^0.16.2",
-    "@react-nativagtion/bottom-tabs": "^6.1.1",
+    "@react-nativagtion/bottom-tabs": "^6.5.2",
     "@react-navigation/native": "^6.1.1",
     "@react-navigation/stack": "^6.2.2",
     "expo": "^46.0.19",
